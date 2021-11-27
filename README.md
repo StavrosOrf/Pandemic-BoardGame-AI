@@ -19,3 +19,8 @@ It is also worth noting that as the game progresses the models we have created f
 more reliable.
 
 For more details read the report.pdf
+
+#Authors
+[Kallinteris Andreas](https://github.com/Kallinteris-Andreas)
+Misokalos Ioannis
+[Orfanoudakis Stavros](https://github.com/stavrosgreece)
